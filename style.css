@@ -1,0 +1,21 @@
+#result {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #666;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+textarea {
+  outline: 0;
+  font-size: 28px;
+  background-color: #66666623;
+  border: 1px solid rgba(128, 128, 128, 0.322);
+}
+.demo {
+  font-size: 32px;
+}
